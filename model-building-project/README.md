@@ -5,7 +5,7 @@ An interactive Machine Learning web app built using Streamlit that segments cust
 ---
 
 ##  Live Demo
-(Add your deployed link here after deployment)
+https://customer-segmentation-app-pgxbouyzeaycydtcrvf4pv.streamlit.app/
 
 ---
 
